@@ -40,7 +40,12 @@ const Gallery = () => {
         "Mosaic 2k25 was a creative technical fest involving coding, design, and innovation competitions.",
       images: [
         "https://i.postimg.cc/HdmvGx9k/PXL-20251017-045139692-MP-jpg.jpg",
-        "https://i.postimg.cc/0xDXHmDR/IMG-20251017-122836-jpg.jpg"
+        "https://i.postimg.cc/0xDXHmDR/IMG-20251017-122836-jpg.jpg",
+        "https://i.postimg.cc/Bv0Gt6f8/IMG_20251017_122237.jpg",
+        "https://i.postimg.cc/GpC192nv/IMG_20251017_122440.jpg",
+        "https://i.postimg.cc/nLGfmJnX/IMG_20251017_171502.jpg", 
+        "https://i.postimg.cc/WpkLmgpT/IMG-7157.avif"
+
       ]
     },
     {
